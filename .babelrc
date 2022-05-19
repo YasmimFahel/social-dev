@@ -1,0 +1,6 @@
+{
+    "presets": ["next/babel"],
+    "puglins": [
+        ["styled-components", {"ssr": true}]
+    ]
+}
