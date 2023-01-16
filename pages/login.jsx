@@ -22,12 +22,12 @@ const FormContainer = styled.div`
 const Form = styled.form`
     display: flex;
     flex-direction: column;
-    mardin: 20px 0;
+    margin: 20px 0;
     gap: 20px;
 `
 
 const Text = styled.p`
-    texte-align: center;
+    text-align: center;
 `
 
 function LoginPage () {
